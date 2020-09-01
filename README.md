@@ -3,6 +3,9 @@ Server_watch is an appindicator script that checks for server avalibility and di
 
 I took these icons from icons8.com so if you wish to replace these with your ones of your own choosing feel free to do so. You just need to make sure the icon names are identical to the originals and are of '.png' type.
 
+Menu
+--
+
 The menu includes an open terminal option which opens a new terminal and starts a ssh connection with the active connection using the username for that connection (command  = 'ssh user@ip')
 
 A wake option which will send a magic packet to the mac address of the active connection using the linux 'wakeonlan' you might need to install this package for this to work correctly by doing 'sudo apt-get install wakeonlan' (command = 'wakeonlan mac')
