@@ -7,7 +7,11 @@ This script can handle multiple different connections and can be configured thro
 
 ![](https://user-images.githubusercontent.com/64331791/91878083-d2693000-ec4c-11ea-8262-51d2465547da.png)
 
-If you want to track multiple connections you can add another connection block inside the settings.ini like-so.
+If you want to track multiple connections you can add another connection block inside the settings.ini by adding the fields and increasing the connection identifier by 1. 
+
+![](https://user-images.githubusercontent.com/64331791/91878518-6c30dd00-ec4d-11ea-9202-14adc399274c.png)
+
+There is no limit to the amount of connections as they are recursively but can be a pain to cycle through if you have an obscene amount.
 
 
 
