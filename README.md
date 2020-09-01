@@ -5,7 +5,9 @@ I took these icons from icons8.com so if you wish to replace these with your one
 
 The menu includes an open terminal option which opens a new terminal and starts a ssh connection with the active connection using the username for that connection (command  = 'ssh user@ip')
 
-A wake option which will send a magic packet to the mac address of the active connection using the linux 'wakeonlan' you might need to install this package for this to work correctly 'sudo apt-get install wakeonlan' (command = 'wakeonlan mac')
+A wake option which will send a magic packet to the mac address of the active connection using the linux 'wakeonlan' you might need to install this package for this to work correctly by doing 'sudo apt-get install wakeonlan' (command = 'wakeonlan mac')
+
+A refresh option that will send a ping upon being clicked and will update the icon accordingly if you do not want to wait for the next ping to be sent.
 
 ![](https://user-images.githubusercontent.com/64331791/91877366-e4969e80-ec4b-11ea-8be1-bc0e90ddba91.png)
 
