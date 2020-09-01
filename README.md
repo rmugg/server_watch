@@ -5,5 +5,11 @@ Appindicator script that checks for server avalibility and displays connectivity
 
 This script can handle multiple different connections and can be configured throught the settings.ini file.
 
+![](https://user-images.githubusercontent.com/64331791/91878083-d2693000-ec4c-11ea-8262-51d2465547da.png)
+
+If you want to track multiple connections you can add another connection block inside the settings.ini like-so.
+
+
+
 
 
