@@ -1,7 +1,7 @@
 # server_watch
 Server_watch is an ppindicator script that checks for server avalibility and displays connectivity through the use of icons and labels. This script works by pinging a single packet to the active connection ip found inside the settings.ini every 7 seconds, if the ping is successful the 'active.png' icon is displayed and if unsuccessful the 'inactive.png' is displayed. Upon connection switch from the menu the 'try.png' icon is displayed as a placeholder until the next ping replaces it. 
 
-I took these icons from icons8.com so if you wish to replace these with your ones of your own choosing feel free to do so. You just need to make sure the icon names are identical to the originals and are'.png'.
+I took these icons from icons8.com so if you wish to replace these with your ones of your own choosing feel free to do so. You just need to make sure the icon names are identical to the originals and are of '.png' type.
 
 ![](https://user-images.githubusercontent.com/64331791/91877366-e4969e80-ec4b-11ea-8be1-bc0e90ddba91.png)
 
